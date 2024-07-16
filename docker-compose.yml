@@ -9,4 +9,4 @@ services:
     ports:
       - 3000:3000
     environment:
-      - ORIGIN=svelte.meratos.com
+      - ORIGIN=https://svelte.meratos.com
