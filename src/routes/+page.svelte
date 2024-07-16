@@ -18,7 +18,7 @@
       </picture>
     </span>
 
-    to your new<br />SvelteKit app Joram
+    to your new<br />SvelteKit app Joram K
   </h1>
 
   <h2>
