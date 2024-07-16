@@ -1,0 +1,12 @@
+# docker-compose.yml
+#version: '3'
+
+services:
+  tool:
+    container_name: kanzleitool
+    build: .
+    restart: always
+    ports:
+      - 3000:3000
+    environment:
+      - ORIGIN=svelte.meratos.com
